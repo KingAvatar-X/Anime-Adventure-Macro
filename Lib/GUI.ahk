@@ -211,7 +211,7 @@ loop 7 {
     text := ""
     color := uiColors["Primary"]
     if A_Index = 1 {
-        text := "➤ Original Creator: KingAvatar (@KingAvatar_X)"
+        text := "➤ Original Creator: KingAvatar (@KingAvatar-X)"
         color := uiColors["ProcessHighlight"]
     }
     process := MainUI.Add("Text", Format("x810 y{} w538 h18 +BackgroundTrans c{}", baseY + yOffset, color), text)

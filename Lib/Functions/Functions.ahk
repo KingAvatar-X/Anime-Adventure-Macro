@@ -286,7 +286,7 @@ OpenGithub() {
 }
 
 OpenDiscord() {
-    Run("https://discord.gg/KingAvatar")
+    Run("https://discord.gg/CWEtbEcjgF")
 }
 
 StringJoin(array, delimiter := ", ") {
