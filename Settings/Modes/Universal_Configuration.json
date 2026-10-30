@@ -1,0 +1,22 @@
+﻿{
+    "Placement": {
+        "Order": 2,
+        "Pattern": 1,
+        "Speed": 3
+    },
+    "PrivateServer": {
+        "Enabled": 0,
+        "URL": ""
+    },
+    "Universal": {
+        "Matchmaking": 1,
+        "NextLevel": 0,
+        "ReturnToLobby": 0,
+        "UsingModeConfigurations": 0
+    },
+    "Webhook": {
+        "Enabled": 0,
+        "LogsEnabled": 0,
+        "URL": ""
+    }
+}

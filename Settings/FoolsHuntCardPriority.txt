@@ -1,0 +1,13 @@
+[CardPriority]
+shield=1
+regen=2
+health=3
+speed=4
+explosive=5
+range=6
+cooldown=7
+attack=8
+resistant=9
+spellproof=10
+plated=11
+yen=12
