@@ -7,7 +7,7 @@
 ; Application Info
 global GameName := "Anime Adventures"
 global GameTitle := "KingAvatar " GameName " Macro "
-global version := "v0.3.9"
+global version := "v1.0.0"
 global rblxID := "ahk_exe RobloxPlayerBeta.exe"
 ; Update Checker
 global repoOwner := "KingAvatar-X"
